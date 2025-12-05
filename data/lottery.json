@@ -1,0 +1,12 @@
+{
+  "updateTime": "2025-12-05T12:00:00.000Z",
+  "updateTimeLocal": "2025/12/5 下午8:00:00",
+  "schedule": {
+    "lotto649": { "name": "大樂透", "drawDays": "週二、五", "drawTime": "20:30" },
+    "superLotto": { "name": "威力彩", "drawDays": "週一、四", "drawTime": "20:30" },
+    "daily539": { "name": "今彩539", "drawDays": "每天", "drawTime": "21:00" },
+    "bingo": { "name": "賓果賓果", "drawDays": "每天", "drawTime": "每5分鐘" }
+  },
+  "officialWebsite": "https://www.taiwanlottery.com/",
+  "note": "請至台灣彩券官網查詢最新開獎號碼"
+}

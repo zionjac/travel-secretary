@@ -1,0 +1,22 @@
+{
+  "updateTime": "2025-12-02T07:00:00.000Z",
+  "updateTimeLocal": "2025/12/2 下午3:00:00",
+  "baseCurrency": "TWD",
+  "rates": {
+    "USD": { "code": "USD", "name": "美元", "flag": "🇺🇸", "cashBuy": 31.45, "cashSell": 32.15, "spotBuy": 31.75, "spotSell": 31.85 },
+    "JPY": { "code": "JPY", "name": "日圓", "flag": "🇯🇵", "cashBuy": 0.2085, "cashSell": 0.2175, "spotBuy": 0.2118, "spotSell": 0.2148 },
+    "EUR": { "code": "EUR", "name": "歐元", "flag": "🇪🇺", "cashBuy": 33.25, "cashSell": 34.55, "spotBuy": 33.75, "spotSell": 34.05 },
+    "CNY": { "code": "CNY", "name": "人民幣", "flag": "🇨🇳", "cashBuy": 4.285, "cashSell": 4.485, "spotBuy": 4.358, "spotSell": 4.408 },
+    "HKD": { "code": "HKD", "name": "港幣", "flag": "🇭🇰", "cashBuy": 3.948, "cashSell": 4.148, "spotBuy": 4.028, "spotSell": 4.088 },
+    "GBP": { "code": "GBP", "name": "英鎊", "flag": "🇬🇧", "cashBuy": 39.25, "cashSell": 41.15, "spotBuy": 39.95, "spotSell": 40.45 },
+    "AUD": { "code": "AUD", "name": "澳幣", "flag": "🇦🇺", "cashBuy": 20.35, "cashSell": 21.25, "spotBuy": 20.68, "spotSell": 20.98 },
+    "CAD": { "code": "CAD", "name": "加幣", "flag": "🇨🇦", "cashBuy": 22.15, "cashSell": 23.05, "spotBuy": 22.48, "spotSell": 22.78 },
+    "SGD": { "code": "SGD", "name": "新加坡幣", "flag": "🇸🇬", "cashBuy": 23.15, "cashSell": 24.05, "spotBuy": 23.48, "spotSell": 23.78 },
+    "KRW": { "code": "KRW", "name": "韓元", "flag": "🇰🇷", "cashBuy": 0.02215, "cashSell": 0.02415, "spotBuy": 0.02285, "spotSell": 0.02345 },
+    "THB": { "code": "THB", "name": "泰銖", "flag": "🇹🇭", "cashBuy": 0.885, "cashSell": 0.965, "spotBuy": 0.915, "spotSell": 0.945 },
+    "VND": { "code": "VND", "name": "越南盾", "flag": "🇻🇳", "cashBuy": 0.001145, "cashSell": 0.001345, "spotBuy": 0.001215, "spotSell": 0.001275 },
+    "MYR": { "code": "MYR", "name": "馬來幣", "flag": "🇲🇾", "cashBuy": 6.85, "cashSell": 7.35, "spotBuy": 7.02, "spotSell": 7.18 },
+    "PHP": { "code": "PHP", "name": "乺律賓乺", "flag": "🇵🇭", "cashBuy": 0.525, "cashSell": 0.585, "spotBuy": 0.545, "spotSell": 0.565 }
+  },
+  "note": "資料來源：台灣銀行牌告匯率，每小時自動更新"
+}

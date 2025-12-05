@@ -1,0 +1,16 @@
+{
+  "updateTime": "2025-12-02T07:00:00.000Z",
+  "updateTimeLocal": "2025/12/2 下午3:00:00",
+  "currency": "TWD",
+  "cryptos": [
+    { "id": "bitcoin", "symbol": "BTC", "name": "Bitcoin", "icon": "₿", "price": 3150000, "change24h": 2.35, "marketCap": 62000000000000, "volume24h": 1250000000000 },
+    { "id": "ethereum", "symbol": "ETH", "name": "Ethereum", "icon": "Ξ", "price": 118500, "change24h": -1.28, "marketCap": 14200000000000, "volume24h": 580000000000 },
+    { "id": "binancecoin", "symbol": "BNB", "name": "BNB", "icon": "🔶", "price": 19850, "change24h": 0.85, "marketCap": 2980000000000, "volume24h": 125000000000 },
+    { "id": "solana", "symbol": "SOL", "name": "Solana", "icon": "◎", "price": 7520, "change24h": 5.67, "marketCap": 3250000000000, "volume24h": 285000000000 },
+    { "id": "dogecoin", "symbol": "DOGE", "name": "Dogecoin", "icon": "🐕", "price": 12.85, "change24h": 3.42, "marketCap": 1850000000000, "volume24h": 95000000000 },
+    { "id": "cardano", "symbol": "ADA", "name": "Cardano", "icon": "₳", "price": 32.5, "change24h": -0.58, "marketCap": 1150000000000, "volume24h": 68000000000 },
+    { "id": "ripple", "symbol": "XRP", "name": "XRP", "icon": "✕", "price": 78.2, "change24h": 8.92, "marketCap": 4250000000000, "volume24h": 385000000000 },
+    { "id": "polkadot", "symbol": "DOT", "name": "Polkadot", "icon": "●", "price": 235, "change24h": 1.25, "marketCap": 325000000000, "volume24h": 28000000000 }
+  ],
+  "note": "資料來源：CoinGecko，每小時自動更新"
+}
