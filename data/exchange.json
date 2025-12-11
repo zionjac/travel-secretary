@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-11T04:37:33.109Z",
-  "updateTimeLocal": "2025/12/11 下午12:37:33",
+  "updateTime": "2025-12-11T05:26:54.659Z",
+  "updateTimeLocal": "2025/12/11 下午1:26:54",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -26,9 +26,9 @@
       "name": "英鎊",
       "flag": "🇬🇧",
       "cashBuy": 0,
-      "cashSell": 40.5,
-      "spotBuy": 41.51,
-      "spotSell": 41.472
+      "cashSell": 40.51,
+      "spotBuy": 41.52,
+      "spotSell": 41.482
     },
     "AUD": {
       "code": "AUD",
@@ -62,18 +62,18 @@
       "name": "瑞士法郎",
       "flag": "🇨🇭",
       "cashBuy": 0,
-      "cashSell": 38.21,
-      "spotBuy": 38.89,
-      "spotSell": 38.91
+      "cashSell": 38.2,
+      "spotBuy": 38.88,
+      "spotSell": 38.9
     },
     "JPY": {
       "code": "JPY",
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.1911,
-      "spotBuy": 0.1984,
-      "spotSell": 0.1984
+      "cashSell": 0.1908,
+      "spotBuy": 0.1981,
+      "spotSell": 0.1981
     },
     "ZAR": {
       "code": "ZAR",
@@ -81,8 +81,8 @@
       "flag": "🇿🇦",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 1.798,
-      "spotSell": 1.795
+      "spotBuy": 1.799,
+      "spotSell": 1.796
     },
     "SEK": {
       "code": "SEK",
@@ -116,7 +116,7 @@
       "name": "菲律賓乺",
       "flag": "🇵🇭",
       "cashBuy": 0,
-      "cashSell": 0.4616,
+      "cashSell": 0.4615,
       "spotBuy": 0,
       "spotSell": 0
     },
@@ -143,7 +143,7 @@
       "name": "韓元",
       "flag": "🇰🇷",
       "cashBuy": 0,
-      "cashSell": 0.01945,
+      "cashSell": 0.01946,
       "spotBuy": 0,
       "spotSell": 0
     },
