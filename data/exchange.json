@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-16T07:26:50.724Z",
-  "updateTimeLocal": "2025/12/16 下午3:26:50",
+  "updateTime": "2025-12-16T08:35:37.303Z",
+  "updateTimeLocal": "2025/12/16 下午4:35:37",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -9,7 +9,7 @@
       "flag": "🇺🇸",
       "cashBuy": 0,
       "cashSell": 31.07,
-      "spotBuy": 31.42,
+      "spotBuy": 31.395,
       "spotSell": 31.399
     },
     "HKD": {
@@ -17,26 +17,26 @@
       "name": "港幣",
       "flag": "🇭🇰",
       "cashBuy": 0,
-      "cashSell": 3.889,
-      "spotBuy": 4.015,
-      "spotSell": 4.013
+      "cashSell": 3.891,
+      "spotBuy": 4.012,
+      "spotSell": 4.014
     },
     "GBP": {
       "code": "GBP",
       "name": "英鎊",
       "flag": "🇬🇧",
       "cashBuy": 0,
-      "cashSell": 40.86,
-      "spotBuy": 41.87,
-      "spotSell": 41.832
+      "cashSell": 40.93,
+      "spotBuy": 41.825,
+      "spotSell": 41.872
     },
     "AUD": {
       "code": "AUD",
       "name": "澳幣",
       "flag": "🇦🇺",
       "cashBuy": 0,
-      "cashSell": 20.5,
-      "spotBuy": 20.79,
+      "cashSell": 20.51,
+      "spotBuy": 20.725,
       "spotSell": 20.772
     },
     "CAD": {
@@ -44,8 +44,8 @@
       "name": "加幣",
       "flag": "🇨🇦",
       "cashBuy": 0,
-      "cashSell": 22.36,
-      "spotBuy": 22.76,
+      "cashSell": 22.37,
+      "spotBuy": 22.7,
       "spotSell": 22.754
     },
     "SGD": {
@@ -53,26 +53,26 @@
       "name": "新加坡幣",
       "flag": "🇸🇬",
       "cashBuy": 0,
-      "cashSell": 23.81,
-      "spotBuy": 24.3,
-      "spotSell": 24.296
+      "cashSell": 23.82,
+      "spotBuy": 24.29,
+      "spotSell": 24.306
     },
     "CHF": {
       "code": "CHF",
       "name": "瑞士法郎",
       "flag": "🇨🇭",
       "cashBuy": 0,
-      "cashSell": 38.67,
-      "spotBuy": 39.35,
-      "spotSell": 39.37
+      "cashSell": 38.71,
+      "spotBuy": 39.32,
+      "spotSell": 39.39
     },
     "JPY": {
       "code": "JPY",
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.1939,
-      "spotBuy": 0.2012,
+      "cashSell": 0.1941,
+      "spotBuy": 0.2009,
       "spotSell": 0.2012
     },
     "ZAR": {
@@ -81,7 +81,7 @@
       "flag": "🇿🇦",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 1.832,
+      "spotBuy": 1.829,
       "spotSell": 1.829
     },
     "SEK": {
@@ -90,7 +90,7 @@
       "flag": "🇸🇪",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 3.34,
+      "spotBuy": 3.33,
       "spotSell": 3.339
     },
     "NZD": {
@@ -98,17 +98,17 @@
       "name": "紐西蘭幣",
       "flag": "🇳🇿",
       "cashBuy": 0,
-      "cashSell": 17.73,
-      "spotBuy": 18.11,
-      "spotSell": 18.101
+      "cashSell": 17.74,
+      "spotBuy": 18.07,
+      "spotSell": 18.111
     },
     "THB": {
       "code": "THB",
       "name": "泰銖",
       "flag": "🇹🇭",
       "cashBuy": 0,
-      "cashSell": 0.8706,
-      "spotBuy": 0.984,
+      "cashSell": 0.8703,
+      "spotBuy": 0.9807,
       "spotSell": 0
     },
     "PHP": {
@@ -116,7 +116,7 @@
       "name": "菲律賓乺",
       "flag": "🇵🇭",
       "cashBuy": 0,
-      "cashSell": 0.4689,
+      "cashSell": 0.4694,
       "spotBuy": 0,
       "spotSell": 0
     },
@@ -125,7 +125,7 @@
       "name": "印尼盾",
       "flag": "🇮🇩",
       "cashBuy": 0,
-      "cashSell": 0.00153,
+      "cashSell": 0.00148,
       "spotBuy": 0,
       "spotSell": 0
     },
@@ -134,16 +134,16 @@
       "name": "歐元",
       "flag": "🇪🇺",
       "cashBuy": 0,
-      "cashSell": 36.15,
-      "spotBuy": 36.77,
-      "spotSell": 36.758
+      "cashSell": 36.21,
+      "spotBuy": 36.725,
+      "spotSell": 36.778
     },
     "KRW": {
       "code": "KRW",
       "name": "韓元",
       "flag": "🇰🇷",
       "cashBuy": 0,
-      "cashSell": 0.0196,
+      "cashSell": 0.01959,
       "spotBuy": 0,
       "spotSell": 0
     },
@@ -152,7 +152,7 @@
       "name": "越南盾",
       "flag": "🇻🇳",
       "cashBuy": 0,
-      "cashSell": 0.00097,
+      "cashSell": 0.00095,
       "spotBuy": 0,
       "spotSell": 0
     },
@@ -161,7 +161,7 @@
       "name": "馬來幣",
       "flag": "🇲🇾",
       "cashBuy": 0,
-      "cashSell": 6.678,
+      "cashSell": 6.677,
       "spotBuy": 0,
       "spotSell": 0
     },
@@ -170,9 +170,9 @@
       "name": "人民幣",
       "flag": "🇨🇳",
       "cashBuy": 0,
-      "cashSell": 4.373,
-      "spotBuy": 4.445,
-      "spotSell": 4.4438
+      "cashSell": 4.376,
+      "spotBuy": 4.443,
+      "spotSell": 4.4448
     }
   }
 }
