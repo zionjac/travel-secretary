@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-21T18:32:50.409Z",
-  "updateTimeLocal": "2025/12/22 上午2:32:50",
+  "updateTime": "2025-12-21T19:18:25.519Z",
+  "updateTimeLocal": "2025/12/22 上午3:18:25",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -44,8 +44,8 @@
       "name": "加幣",
       "flag": "🇨🇦",
       "cashBuy": 0,
-      "cashSell": 22.36,
-      "spotBuy": 22.69,
+      "cashSell": 22.38,
+      "spotBuy": 22.71,
       "spotSell": 22.764
     },
     "SGD": {
@@ -71,8 +71,8 @@
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.1907,
-      "spotBuy": 0.1975,
+      "cashSell": 0.1908,
+      "spotBuy": 0.1976,
       "spotSell": 0.1991
     },
     "ZAR": {
