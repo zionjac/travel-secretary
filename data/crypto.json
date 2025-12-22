@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-22T22:24:13.606Z",
-  "updateTimeLocal": "2025/12/23 上午6:24:13",
+  "updateTime": "2025-12-22T23:23:14.395Z",
+  "updateTimeLocal": "2025/12/23 上午7:23:14",
   "currency": "TWD",
   "cryptos": [
     {
@@ -8,33 +8,130 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "icon": "₿",
-      "price": 3150000,
-      "change24h": 0
+      "price": 2792752,
+      "priceUsd": 88658.79365079365,
+      "change24h": 0.01847,
+      "marketCap": 55752327266115,
+      "volume24h": 1328234424291,
+      "high24h": 2846109,
+      "low24h": 2770255
     },
     {
       "id": "ethereum",
       "symbol": "ETH",
       "name": "Ethereum",
       "icon": "Ξ",
-      "price": 98000,
-      "change24h": 0
+      "price": 94844,
+      "priceUsd": 3010.9206349206347,
+      "change24h": 0.23108,
+      "marketCap": 11444871063082,
+      "volume24h": 689644524468,
+      "high24h": 96563,
+      "low24h": 93547
+    },
+    {
+      "id": "binancecoin",
+      "symbol": "BNB",
+      "name": "BNB",
+      "icon": "🔶",
+      "price": 27078,
+      "priceUsd": 859.6190476190476,
+      "change24h": 0.12802,
+      "marketCap": 3730340092610,
+      "volume24h": 41655471099,
+      "high24h": 27348,
+      "low24h": 26866
+    },
+    {
+      "id": "ripple",
+      "symbol": "XRP",
+      "name": "XRP",
+      "icon": "✕",
+      "price": 60.06,
+      "priceUsd": 1.9066666666666667,
+      "change24h": -0.95409,
+      "marketCap": 3637572991551,
+      "volume24h": 83380669347,
+      "high24h": 61.22,
+      "low24h": 59.67
     },
     {
       "id": "solana",
       "symbol": "SOL",
       "name": "Solana",
       "icon": "◎",
-      "price": 5800,
-      "change24h": 0
+      "price": 3965.25,
+      "priceUsd": 125.88095238095238,
+      "change24h": -0.06774,
+      "marketCap": 2229904033031,
+      "volume24h": 127986158637,
+      "high24h": 4034.47,
+      "low24h": 3919.04
     },
     {
       "id": "dogecoin",
       "symbol": "DOGE",
       "name": "Dogecoin",
       "icon": "🐕",
-      "price": 12,
-      "change24h": 0
+      "price": 4.17,
+      "priceUsd": 0.13238095238095238,
+      "change24h": 0.92073,
+      "marketCap": 700350932366,
+      "volume24h": 35017780324,
+      "high24h": 4.25,
+      "low24h": 4.1
+    },
+    {
+      "id": "cardano",
+      "symbol": "ADA",
+      "name": "Cardano",
+      "icon": "₳",
+      "price": 11.72,
+      "priceUsd": 0.3720634920634921,
+      "change24h": 1.431,
+      "marketCap": 429497349922,
+      "volume24h": 19077604109,
+      "high24h": 11.97,
+      "low24h": 11.46
+    },
+    {
+      "id": "chainlink",
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "icon": "⬡",
+      "price": 397.08,
+      "priceUsd": 12.605714285714285,
+      "change24h": 1.06777,
+      "marketCap": 281136859256,
+      "volume24h": 16472143781,
+      "high24h": 404.38,
+      "low24h": 389.99
+    },
+    {
+      "id": "avalanche-2",
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "icon": "🔺",
+      "price": 390.34,
+      "priceUsd": 12.391746031746031,
+      "change24h": 1.73741,
+      "marketCap": 167653811204,
+      "volume24h": 11340350241,
+      "high24h": 391.27,
+      "low24h": 380.66
+    },
+    {
+      "id": "polkadot",
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "icon": "●",
+      "price": 56.25,
+      "priceUsd": 1.7857142857142858,
+      "change24h": -1.20049,
+      "marketCap": 92686755928,
+      "volume24h": 4919841013,
+      "high24h": 58.13,
+      "low24h": 55.45
     }
-  ],
-  "note": "使用備用資料"
+  ]
 }
