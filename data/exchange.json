@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-22T10:26:53.967Z",
-  "updateTimeLocal": "2025/12/22 下午6:26:53",
+  "updateTime": "2025-12-22T11:22:19.576Z",
+  "updateTimeLocal": "2025/12/22 下午7:22:19",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -26,8 +26,8 @@
       "name": "英鎊",
       "flag": "🇬🇧",
       "cashBuy": 0,
-      "cashSell": 41.15,
-      "spotBuy": 42.045,
+      "cashSell": 41.18,
+      "spotBuy": 42.075,
       "spotSell": 42.062
     },
     "AUD": {
@@ -44,8 +44,8 @@
       "name": "加幣",
       "flag": "🇨🇦",
       "cashBuy": 0,
-      "cashSell": 22.41,
-      "spotBuy": 22.74,
+      "cashSell": 22.42,
+      "spotBuy": 22.75,
       "spotSell": 22.774
     },
     "SGD": {
@@ -143,7 +143,7 @@
       "name": "韓元",
       "flag": "🇰🇷",
       "cashBuy": 0,
-      "cashSell": 0.01956,
+      "cashSell": 0.01958,
       "spotBuy": 0,
       "spotSell": 0
     },
@@ -170,8 +170,8 @@
       "name": "人民幣",
       "flag": "🇨🇳",
       "cashBuy": 0,
-      "cashSell": 4.386,
-      "spotBuy": 4.453,
+      "cashSell": 4.388,
+      "spotBuy": 4.455,
       "spotSell": 4.4567
     }
   }
