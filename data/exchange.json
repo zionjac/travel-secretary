@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-22T20:27:41.814Z",
-  "updateTimeLocal": "2025/12/23 上午4:27:41",
+  "updateTime": "2025-12-22T21:21:50.359Z",
+  "updateTimeLocal": "2025/12/23 上午5:21:50",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -35,8 +35,8 @@
       "name": "澳幣",
       "flag": "🇦🇺",
       "cashBuy": 0,
-      "cashSell": 20.59,
-      "spotBuy": 20.805,
+      "cashSell": 20.61,
+      "spotBuy": 20.825,
       "spotSell": 20.802
     },
     "CAD": {
