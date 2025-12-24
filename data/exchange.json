@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-24T16:30:16.054Z",
-  "updateTimeLocal": "2025/12/25 上午12:30:16",
+  "updateTime": "2025-12-24T17:20:37.637Z",
+  "updateTimeLocal": "2025/12/25 上午1:20:37",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -81,7 +81,7 @@
       "flag": "🇿🇦",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 1.843,
+      "spotBuy": 1.844,
       "spotSell": 1.845
     },
     "SEK": {
@@ -98,8 +98,8 @@
       "name": "紐西蘭幣",
       "flag": "🇳🇿",
       "cashBuy": 0,
-      "cashSell": 17.9,
-      "spotBuy": 18.23,
+      "cashSell": 17.89,
+      "spotBuy": 18.22,
       "spotSell": 18.291
     },
     "THB": {
