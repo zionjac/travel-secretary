@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-25T12:50:06.866Z",
-  "updateTimeLocal": "2025/12/25 下午8:50:06",
+  "updateTime": "2025-12-25T13:34:24.998Z",
+  "updateTimeLocal": "2025/12/25 下午9:34:24",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -143,7 +143,7 @@
       "name": "韓元",
       "flag": "🇰🇷",
       "cashBuy": 0,
-      "cashSell": 0.02,
+      "cashSell": 0.02002,
       "spotBuy": 0,
       "spotSell": 0
     },
