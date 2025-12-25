@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-25T04:40:26.155Z",
-  "updateTimeLocal": "2025/12/25 下午12:40:26",
+  "updateTime": "2025-12-25T05:27:57.234Z",
+  "updateTimeLocal": "2025/12/25 下午1:27:57",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -90,7 +90,7 @@
       "flag": "🇸🇪",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 3.38,
+      "spotBuy": 3.37,
       "spotSell": 3.389
     },
     "NZD": {
