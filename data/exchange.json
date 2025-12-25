@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-25T01:57:57.890Z",
-  "updateTimeLocal": "2025/12/25 上午9:57:57",
+  "updateTime": "2025-12-25T03:41:04.450Z",
+  "updateTimeLocal": "2025/12/25 上午11:41:04",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -26,8 +26,8 @@
       "name": "英鎊",
       "flag": "🇬🇧",
       "cashBuy": 0,
-      "cashSell": 41.32,
-      "spotBuy": 42.215,
+      "cashSell": 41.37,
+      "spotBuy": 42.265,
       "spotSell": 42.312
     },
     "AUD": {
@@ -35,8 +35,8 @@
       "name": "澳幣",
       "flag": "🇦🇺",
       "cashBuy": 0,
-      "cashSell": 20.72,
-      "spotBuy": 20.935,
+      "cashSell": 20.74,
+      "spotBuy": 20.955,
       "spotSell": 21.012
     },
     "CAD": {
@@ -53,8 +53,8 @@
       "name": "新加坡幣",
       "flag": "🇸🇬",
       "cashBuy": 0,
-      "cashSell": 23.95,
-      "spotBuy": 24.42,
+      "cashSell": 23.94,
+      "spotBuy": 24.41,
       "spotSell": 24.436
     },
     "CHF": {
@@ -71,8 +71,8 @@
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.1928,
-      "spotBuy": 0.1996,
+      "cashSell": 0.1929,
+      "spotBuy": 0.1997,
       "spotSell": 0.2001
     },
     "ZAR": {
@@ -107,8 +107,8 @@
       "name": "泰銖",
       "flag": "🇹🇭",
       "cashBuy": 0,
-      "cashSell": 0.8846,
-      "spotBuy": 0.995,
+      "cashSell": 0.8836,
+      "spotBuy": 0.994,
       "spotSell": 0
     },
     "PHP": {
@@ -134,8 +134,8 @@
       "name": "歐元",
       "flag": "🇪🇺",
       "cashBuy": 0,
-      "cashSell": 36.28,
-      "spotBuy": 36.795,
+      "cashSell": 36.26,
+      "spotBuy": 36.775,
       "spotSell": 36.897
     },
     "KRW": {
@@ -143,7 +143,7 @@
       "name": "韓元",
       "flag": "🇰🇷",
       "cashBuy": 0,
-      "cashSell": 0.01999,
+      "cashSell": 0.02006,
       "spotBuy": 0,
       "spotSell": 0
     },
@@ -170,8 +170,8 @@
       "name": "人民幣",
       "flag": "🇨🇳",
       "cashBuy": 0,
-      "cashSell": 4.396,
-      "spotBuy": 4.463,
+      "cashSell": 4.403,
+      "spotBuy": 4.47,
       "spotSell": 4.4671
     }
   }
