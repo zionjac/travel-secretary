@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-26T10:26:26.070Z",
-  "updateTimeLocal": "2025/12/26 下午6:26:26",
+  "updateTime": "2025-12-26T11:21:46.379Z",
+  "updateTimeLocal": "2025/12/26 下午7:21:46",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -107,8 +107,8 @@
       "name": "泰銖",
       "flag": "🇹🇭",
       "cashBuy": 0,
-      "cashSell": 0.8839,
-      "spotBuy": 0.9943,
+      "cashSell": 0.8848,
+      "spotBuy": 0.9952,
       "spotSell": 0
     },
     "PHP": {
