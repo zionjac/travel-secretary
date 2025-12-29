@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-29T12:53:27.614Z",
-  "updateTimeLocal": "2025/12/29 下午8:53:27",
+  "updateTime": "2025-12-29T13:39:59.070Z",
+  "updateTimeLocal": "2025/12/29 下午9:39:59",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -81,7 +81,7 @@
       "flag": "🇿🇦",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 1.845,
+      "spotBuy": 1.843,
       "spotSell": 1.837
     },
     "SEK": {
@@ -98,8 +98,8 @@
       "name": "紐西蘭幣",
       "flag": "🇳🇿",
       "cashBuy": 0,
-      "cashSell": 17.74,
-      "spotBuy": 18.07,
+      "cashSell": 17.75,
+      "spotBuy": 18.08,
       "spotSell": 18.181
     },
     "THB": {
@@ -143,7 +143,7 @@
       "name": "韓元",
       "flag": "🇰🇷",
       "cashBuy": 0,
-      "cashSell": 0.02014,
+      "cashSell": 0.02013,
       "spotBuy": 0,
       "spotSell": 0
     },
@@ -170,8 +170,8 @@
       "name": "人民幣",
       "flag": "🇨🇳",
       "cashBuy": 0,
-      "cashSell": 4.396,
-      "spotBuy": 4.463,
+      "cashSell": 4.393,
+      "spotBuy": 4.46,
       "spotSell": 4.4611
     }
   }
