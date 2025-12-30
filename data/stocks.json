@@ -1,6 +1,6 @@
 {
-  "updateTime": "2025-12-30T03:43:01.248Z",
-  "updateTimeLocal": "2025/12/30 上午11:43:01",
+  "updateTime": "2025-12-30T04:41:37.976Z",
+  "updateTimeLocal": "2025/12/30 下午12:41:37",
   "stocks": [
     {
       "id": "2330",
@@ -12,21 +12,21 @@
       "open": 1515,
       "high": 1530,
       "low": 1510,
-      "volume": 11620,
-      "time": "11:42:55"
+      "volume": 13555,
+      "time": "12:41:28"
     },
     {
       "id": "2303",
       "name": "聯電",
       "category": "半導體",
-      "price": 49.5,
-      "change": "-0.15",
-      "changePercent": "-0.30",
+      "price": 49.65,
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 49.5,
       "high": 50,
       "low": 49.35,
-      "volume": 11758,
-      "time": "11:42:55"
+      "volume": 16279,
+      "time": "12:41:28"
     },
     {
       "id": "3711",
@@ -38,8 +38,8 @@
       "open": 249.5,
       "high": 251,
       "low": 244,
-      "volume": 10365,
-      "time": "11:42:52"
+      "volume": 11479,
+      "time": "12:41:31"
     },
     {
       "id": "2344",
@@ -51,8 +51,8 @@
       "open": 77.2,
       "high": 84.4,
       "low": 77.2,
-      "volume": 340690,
-      "time": "11:42:55"
+      "volume": 359378,
+      "time": "12:41:30"
     },
     {
       "id": "6770",
@@ -64,8 +64,8 @@
       "open": 39.7,
       "high": 41.1,
       "low": 39.5,
-      "volume": 161858,
-      "time": "11:42:53"
+      "volume": 177439,
+      "time": "12:41:33"
     },
     {
       "id": "",
@@ -87,23 +87,23 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 1405,
-      "high": 1425,
+      "high": 1430,
       "low": 1400,
-      "volume": 2587,
-      "time": "11:42:50"
+      "volume": 3179,
+      "time": "12:41:30"
     },
     {
       "id": "2379",
       "name": "瑞昱",
       "category": "IC設計",
-      "price": 484,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 481,
+      "change": "-3.00",
+      "changePercent": "-0.62",
       "open": 485.5,
       "high": 485.5,
       "low": 480,
-      "volume": 437,
-      "time": "11:42:47"
+      "volume": 588,
+      "time": "12:41:31"
     },
     {
       "id": "3034",
@@ -114,9 +114,9 @@
       "changePercent": "NaN",
       "open": 377,
       "high": 380.5,
-      "low": 376,
-      "volume": 810,
-      "time": "11:42:52"
+      "low": 373,
+      "volume": 1627,
+      "time": "12:41:36"
     },
     {
       "id": "3443",
@@ -126,23 +126,23 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 2055,
-      "high": 2075,
+      "high": 2080,
       "low": 2055,
-      "volume": 607,
-      "time": "11:42:52"
+      "volume": 779,
+      "time": "12:41:28"
     },
     {
       "id": "6531",
       "name": "愛普",
       "category": "IC設計",
-      "price": 445,
-      "change": "34.00",
-      "changePercent": "8.27",
+      "price": 411,
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 415,
       "high": 448,
       "low": 413.5,
-      "volume": 11295,
-      "time": "11:42:53"
+      "volume": 12625,
+      "time": "12:41:28"
     },
     {
       "id": "2317",
@@ -154,8 +154,8 @@
       "open": 230.5,
       "high": 231,
       "low": 228,
-      "volume": 20232,
-      "time": "11:42:55"
+      "volume": 25385,
+      "time": "12:41:30"
     },
     {
       "id": "2382",
@@ -167,8 +167,8 @@
       "open": 263,
       "high": 263,
       "low": 260.5,
-      "volume": 7994,
-      "time": "11:42:56"
+      "volume": 9385,
+      "time": "12:41:36"
     },
     {
       "id": "3231",
@@ -178,10 +178,10 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 146,
-      "high": 146,
+      "high": 147,
       "low": 143.5,
-      "volume": 10858,
-      "time": "11:42:52"
+      "volume": 17853,
+      "time": "12:41:32"
     },
     {
       "id": "2356",
@@ -193,8 +193,8 @@
       "open": 42.5,
       "high": 42.5,
       "low": 42.05,
-      "volume": 4469,
-      "time": "11:42:50"
+      "volume": 5974,
+      "time": "12:41:26"
     },
     {
       "id": "2324",
@@ -206,21 +206,21 @@
       "open": 30.65,
       "high": 30.65,
       "low": 30.05,
-      "volume": 6791,
-      "time": "11:42:50"
+      "volume": 8244,
+      "time": "12:41:35"
     },
     {
       "id": "2353",
       "name": "宏碁",
       "category": "電子代工",
-      "price": 25.05,
-      "change": "-0.30",
-      "changePercent": "-1.18",
+      "price": 27,
+      "change": "1.65",
+      "changePercent": "6.51",
       "open": 25.3,
-      "high": 25.3,
+      "high": 27.1,
       "low": 25,
-      "volume": 8993,
-      "time": "11:42:54"
+      "volume": 43962,
+      "time": "12:41:35"
     },
     {
       "id": "4938",
@@ -232,8 +232,8 @@
       "open": 68.9,
       "high": 68.9,
       "low": 67.8,
-      "volume": 6732,
-      "time": "11:42:51"
+      "volume": 9171,
+      "time": "12:41:25"
     },
     {
       "id": "2308",
@@ -245,8 +245,8 @@
       "open": 964,
       "high": 970,
       "low": 957,
-      "volume": 2608,
-      "time": "11:42:49"
+      "volume": 3305,
+      "time": "12:41:32"
     },
     {
       "id": "2327",
@@ -256,10 +256,10 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 222.5,
-      "high": 223.5,
+      "high": 226.5,
       "low": 220.5,
-      "volume": 6858,
-      "time": "11:42:49"
+      "volume": 13658,
+      "time": "12:41:30"
     },
     {
       "id": "2301",
@@ -271,8 +271,8 @@
       "open": 164,
       "high": 165.5,
       "low": 161,
-      "volume": 8285,
-      "time": "11:42:54"
+      "volume": 10853,
+      "time": "12:41:30"
     },
     {
       "id": "3008",
@@ -284,8 +284,8 @@
       "open": 2480,
       "high": 2515,
       "low": 2475,
-      "volume": 1003,
-      "time": "11:41:37"
+      "volume": 1148,
+      "time": "12:41:23"
     },
     {
       "id": "2357",
@@ -297,21 +297,21 @@
       "open": 545,
       "high": 548,
       "low": 535,
-      "volume": 2095,
-      "time": "11:42:55"
+      "volume": 2465,
+      "time": "12:41:29"
     },
     {
       "id": "2395",
       "name": "研華",
       "category": "工業電腦",
-      "price": 286.5,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 287.5,
+      "change": "1.00",
+      "changePercent": "0.35",
       "open": 285,
       "high": 288,
       "low": 284,
-      "volume": 427,
-      "time": "11:42:56"
+      "volume": 561,
+      "time": "12:41:24"
     },
     {
       "id": "3017",
@@ -323,8 +323,8 @@
       "open": 1530,
       "high": 1550,
       "low": 1525,
-      "volume": 1148,
-      "time": "11:42:53"
+      "volume": 1303,
+      "time": "12:41:28"
     },
     {
       "id": "2345",
@@ -335,9 +335,9 @@
       "changePercent": "NaN",
       "open": 1200,
       "high": 1210,
-      "low": 1195,
-      "volume": 1150,
-      "time": "11:42:55"
+      "low": 1190,
+      "volume": 1429,
+      "time": "12:41:28"
     },
     {
       "id": "2474",
@@ -349,8 +349,8 @@
       "open": 205.5,
       "high": 207.5,
       "low": 205,
-      "volume": 2152,
-      "time": "11:42:55"
+      "volume": 3373,
+      "time": "12:41:29"
     },
     {
       "id": "6669",
@@ -362,21 +362,21 @@
       "open": 4320,
       "high": 4415,
       "low": 4250,
-      "volume": 569,
-      "time": "11:42:31"
+      "volume": 633,
+      "time": "12:41:18"
     },
     {
       "id": "3706",
       "name": "神達",
       "category": "伺服器",
-      "price": 83.2,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 83.6,
+      "change": "0.40",
+      "changePercent": "0.48",
       "open": 83,
-      "high": 83,
+      "high": 83.8,
       "low": 82.4,
-      "volume": 3577,
-      "time": "11:42:53"
+      "volume": 4945,
+      "time": "12:41:30"
     },
     {
       "id": "6409",
@@ -386,10 +386,10 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 951,
-      "high": 953,
+      "high": 954,
       "low": 937,
-      "volume": 219,
-      "time": "11:42:30"
+      "volume": 346,
+      "time": "12:41:31"
     },
     {
       "id": "3665",
@@ -401,21 +401,21 @@
       "open": 1505,
       "high": 1520,
       "low": 1490,
-      "volume": 639,
-      "time": "11:42:49"
+      "volume": 778,
+      "time": "12:41:29"
     },
     {
       "id": "3037",
       "name": "欣興",
       "category": "PCB",
-      "price": 221,
-      "change": "0.50",
-      "changePercent": "0.23",
+      "price": 220.5,
+      "change": "0.00",
+      "changePercent": "0.00",
       "open": 221.5,
       "high": 224,
       "low": 218,
-      "volume": 7485,
-      "time": "11:42:50"
+      "volume": 8592,
+      "time": "12:41:31"
     },
     {
       "id": "2368",
@@ -427,8 +427,8 @@
       "open": 696,
       "high": 696,
       "low": 683,
-      "volume": 2812,
-      "time": "11:42:55"
+      "volume": 3218,
+      "time": "12:41:30"
     },
     {
       "id": "4958",
@@ -440,8 +440,8 @@
       "open": 143,
       "high": 143,
       "low": 140.5,
-      "volume": 2989,
-      "time": "11:42:46"
+      "volume": 4259,
+      "time": "12:41:30"
     },
     {
       "id": "8046",
@@ -453,47 +453,47 @@
       "open": 239.5,
       "high": 241,
       "low": 235,
-      "volume": 2645,
-      "time": "11:42:46"
+      "volume": 3064,
+      "time": "12:41:33"
     },
     {
       "id": "2881",
       "name": "富邦金",
       "category": "金融",
-      "price": 98.2,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 97.2,
+      "change": "-1.00",
+      "changePercent": "-1.02",
       "open": 97.6,
       "high": 97.8,
       "low": 96.8,
-      "volume": 4830,
-      "time": "11:42:51"
+      "volume": 6052,
+      "time": "12:41:30"
     },
     {
       "id": "2882",
       "name": "國泰金",
       "category": "金融",
-      "price": 76,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 76.5,
+      "change": "0.50",
+      "changePercent": "0.66",
       "open": 75.5,
-      "high": 76,
-      "low": 75.2,
-      "volume": 5143,
-      "time": "11:42:45"
+      "high": 76.5,
+      "low": 75.1,
+      "volume": 13379,
+      "time": "12:41:30"
     },
     {
       "id": "2891",
       "name": "中信金",
       "category": "金融",
-      "price": 50,
-      "change": "-0.40",
-      "changePercent": "-0.79",
+      "price": 50.4,
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 50,
       "high": 50.5,
-      "low": 50,
-      "volume": 7471,
-      "time": "11:42:55"
+      "low": 49.95,
+      "volume": 10519,
+      "time": "12:41:30"
     },
     {
       "id": "2884",
@@ -503,23 +503,23 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 33.55,
-      "high": 33.7,
+      "high": 34.1,
       "low": 33.2,
-      "volume": 17751,
-      "time": "11:42:54"
+      "volume": 35297,
+      "time": "12:41:36"
     },
     {
       "id": "2886",
       "name": "兆豐金",
       "category": "金融",
-      "price": 40.35,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 40.3,
+      "change": "-0.05",
+      "changePercent": "-0.12",
       "open": 40.35,
       "high": 40.45,
       "low": 40.2,
-      "volume": 6106,
-      "time": "11:42:56"
+      "volume": 8815,
+      "time": "12:41:29"
     },
     {
       "id": "2887",
@@ -531,21 +531,21 @@
       "open": 20.3,
       "high": 20.7,
       "low": 20.3,
-      "volume": 24020,
-      "time": "11:42:50"
+      "volume": 30173,
+      "time": "12:41:30"
     },
     {
       "id": "2892",
       "name": "第一金",
       "category": "金融",
-      "price": 29.6,
-      "change": "0.10",
-      "changePercent": "0.34",
+      "price": 29.5,
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 29.5,
       "high": 29.85,
       "low": 29.45,
-      "volume": 10220,
-      "time": "11:42:54"
+      "volume": 14553,
+      "time": "12:41:30"
     },
     {
       "id": "2885",
@@ -556,9 +556,9 @@
       "changePercent": "NaN",
       "open": 39.6,
       "high": 39.85,
-      "low": 39.6,
-      "volume": 9040,
-      "time": "11:42:51"
+      "low": 39.45,
+      "volume": 16933,
+      "time": "12:41:31"
     },
     {
       "id": "2883",
@@ -570,47 +570,47 @@
       "open": 17.45,
       "high": 17.6,
       "low": 17.4,
-      "volume": 15454,
-      "time": "11:42:54"
+      "volume": 20793,
+      "time": "12:41:31"
     },
     {
       "id": "2890",
       "name": "永豐金",
       "category": "金融",
-      "price": 28.8,
-      "change": "-0.10",
-      "changePercent": "-0.35",
+      "price": 28.9,
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 28.65,
       "high": 28.9,
       "low": 28.65,
-      "volume": 6812,
-      "time": "11:42:49"
+      "volume": 8709,
+      "time": "12:41:30"
     },
     {
       "id": "2880",
       "name": "華南金",
       "category": "金融",
-      "price": 32.35,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 31.8,
+      "change": "-0.55",
+      "changePercent": "-1.70",
       "open": 32.3,
       "high": 32.3,
-      "low": 31.85,
-      "volume": 3131,
-      "time": "11:42:56"
+      "low": 31.75,
+      "volume": 4983,
+      "time": "12:41:28"
     },
     {
       "id": "5880",
       "name": "合庫金",
       "category": "金融",
-      "price": 24.4,
-      "change": "-0.15",
-      "changePercent": "-0.61",
+      "price": 24.55,
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 24.55,
       "high": 24.55,
       "low": 24.4,
-      "volume": 2286,
-      "time": "11:42:46"
+      "volume": 3610,
+      "time": "12:41:20"
     },
     {
       "id": "2412",
@@ -622,34 +622,34 @@
       "open": 132,
       "high": 132,
       "low": 131,
-      "volume": 2869,
-      "time": "11:42:54"
+      "volume": 3595,
+      "time": "12:41:27"
     },
     {
       "id": "4904",
       "name": "遠傳",
       "category": "電信",
       "price": 89.4,
-      "change": "0.00",
-      "changePercent": "0.00",
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 88.9,
       "high": 89.7,
       "low": 88.9,
-      "volume": 1929,
-      "time": "11:42:45"
+      "volume": 2420,
+      "time": "12:41:30"
     },
     {
       "id": "3045",
       "name": "台灣大",
       "category": "電信",
       "price": 109.5,
-      "change": "0.00",
-      "changePercent": "0.00",
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 108.5,
-      "high": 110,
+      "high": 110.5,
       "low": 108.5,
-      "volume": 4358,
-      "time": "11:42:52"
+      "volume": 6574,
+      "time": "12:41:23"
     },
     {
       "id": "1301",
@@ -661,21 +661,21 @@
       "open": 39.6,
       "high": 39.65,
       "low": 38.7,
-      "volume": 11411,
-      "time": "11:42:51"
+      "volume": 13242,
+      "time": "12:41:28"
     },
     {
       "id": "1303",
       "name": "南亞",
       "category": "塑化",
-      "price": 58.4,
-      "change": "-0.30",
-      "changePercent": "-0.51",
+      "price": 58.7,
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 58.7,
       "high": 59,
       "low": 58,
-      "volume": 16298,
-      "time": "11:42:53"
+      "volume": 18869,
+      "time": "12:41:34"
     },
     {
       "id": "1326",
@@ -687,21 +687,21 @@
       "open": 32.05,
       "high": 32.2,
       "low": 31.55,
-      "volume": 4816,
-      "time": "11:42:55"
+      "volume": 6446,
+      "time": "12:41:34"
     },
     {
       "id": "6505",
       "name": "台塑化",
       "category": "塑化",
       "price": 49,
-      "change": "0.00",
-      "changePercent": "0.00",
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 49.2,
       "high": 49.2,
       "low": 48.35,
-      "volume": 1138,
-      "time": "11:42:45"
+      "volume": 1372,
+      "time": "12:40:51"
     },
     {
       "id": "2002",
@@ -713,8 +713,8 @@
       "open": 19.15,
       "high": 19.4,
       "low": 19.05,
-      "volume": 30683,
-      "time": "11:42:55"
+      "volume": 38142,
+      "time": "12:41:35"
     },
     {
       "id": "2015",
@@ -726,8 +726,8 @@
       "open": 61.6,
       "high": 61.6,
       "low": 61,
-      "volume": 252,
-      "time": "11:41:33"
+      "volume": 315,
+      "time": "12:40:30"
     },
     {
       "id": "1402",
@@ -739,21 +739,21 @@
       "open": 27.75,
       "high": 27.8,
       "low": 27.5,
-      "volume": 1753,
-      "time": "11:42:53"
+      "volume": 2288,
+      "time": "12:41:28"
     },
     {
       "id": "1101",
       "name": "台泥",
       "category": "水泥",
-      "price": 23.35,
-      "change": "0.05",
-      "changePercent": "0.21",
+      "price": 23.55,
+      "change": "0.25",
+      "changePercent": "1.07",
       "open": 23.3,
-      "high": 23.45,
+      "high": 23.65,
       "low": 23.15,
-      "volume": 11348,
-      "time": "11:42:54"
+      "volume": 21271,
+      "time": "12:41:32"
     },
     {
       "id": "1102",
@@ -763,10 +763,10 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 36.85,
-      "high": 36.85,
-      "low": 36.4,
-      "volume": 1844,
-      "time": "11:42:47"
+      "high": 38,
+      "low": 36.3,
+      "volume": 12183,
+      "time": "12:41:29"
     },
     {
       "id": "1216",
@@ -776,10 +776,10 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 78.7,
-      "high": 79,
+      "high": 79.1,
       "low": 78.5,
-      "volume": 2611,
-      "time": "11:42:54"
+      "volume": 3577,
+      "time": "12:41:26"
     },
     {
       "id": "2912",
@@ -791,8 +791,8 @@
       "open": 226,
       "high": 226,
       "low": 224,
-      "volume": 600,
-      "time": "11:42:46"
+      "volume": 943,
+      "time": "12:41:27"
     },
     {
       "id": "1227",
@@ -804,8 +804,8 @@
       "open": 30.5,
       "high": 30.5,
       "low": 30.15,
-      "volume": 414,
-      "time": "11:42:51"
+      "volume": 482,
+      "time": "12:41:18"
     },
     {
       "id": "1229",
@@ -817,8 +817,8 @@
       "open": 48.05,
       "high": 48.05,
       "low": 47.7,
-      "volume": 313,
-      "time": "11:42:49"
+      "volume": 401,
+      "time": "12:40:40"
     },
     {
       "id": "2207",
@@ -830,8 +830,8 @@
       "open": 567,
       "high": 567,
       "low": 557,
-      "volume": 116,
-      "time": "11:42:13"
+      "volume": 165,
+      "time": "12:40:29"
     },
     {
       "id": "2201",
@@ -843,21 +843,21 @@
       "open": 33.9,
       "high": 33.95,
       "low": 33.25,
-      "volume": 3120,
-      "time": "11:42:28"
+      "volume": 3713,
+      "time": "12:41:33"
     },
     {
       "id": "2105",
       "name": "正新",
       "category": "輪胎",
-      "price": 29.15,
-      "change": "-0.35",
-      "changePercent": "-1.19",
+      "price": 29.5,
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 29.5,
       "high": 29.6,
       "low": 29.15,
-      "volume": 3572,
-      "time": "11:42:52"
+      "volume": 5100,
+      "time": "12:41:30"
     },
     {
       "id": "2603",
@@ -869,8 +869,8 @@
       "open": 191,
       "high": 191,
       "low": 189,
-      "volume": 3797,
-      "time": "11:42:55"
+      "volume": 4772,
+      "time": "12:41:27"
     },
     {
       "id": "2609",
@@ -882,8 +882,8 @@
       "open": 56.2,
       "high": 56.2,
       "low": 55.4,
-      "volume": 7220,
-      "time": "11:42:50"
+      "volume": 9669,
+      "time": "12:41:31"
     },
     {
       "id": "2615",
@@ -895,8 +895,8 @@
       "open": 80.1,
       "high": 80.1,
       "low": 79,
-      "volume": 1760,
-      "time": "11:42:38"
+      "volume": 2133,
+      "time": "12:41:16"
     },
     {
       "id": "2618",
@@ -908,8 +908,8 @@
       "open": 36.6,
       "high": 36.7,
       "low": 36.1,
-      "volume": 13227,
-      "time": "11:42:56"
+      "volume": 15460,
+      "time": "12:41:29"
     },
     {
       "id": "2610",
@@ -921,8 +921,8 @@
       "open": 20.45,
       "high": 20.5,
       "low": 20.1,
-      "volume": 15013,
-      "time": "11:42:55"
+      "volume": 18807,
+      "time": "12:41:31"
     },
     {
       "id": "9941",
@@ -933,22 +933,22 @@
       "changePercent": "NaN",
       "open": 88.6,
       "high": 88.7,
-      "low": 87.6,
-      "volume": 839,
-      "time": "11:42:37"
+      "low": 87.2,
+      "volume": 1266,
+      "time": "12:41:17"
     },
     {
       "id": "5871",
       "name": "中租-KY",
       "category": "租賃",
-      "price": 107,
-      "change": "-1.50",
-      "changePercent": "-1.38",
+      "price": 108.5,
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 108,
       "high": 108.5,
-      "low": 106.5,
-      "volume": 2857,
-      "time": "11:42:51"
+      "low": 105.5,
+      "volume": 5807,
+      "time": "12:41:32"
     },
     {
       "id": "9945",
@@ -960,8 +960,8 @@
       "open": 30.15,
       "high": 30.25,
       "low": 29.95,
-      "volume": 1887,
-      "time": "11:42:49"
+      "volume": 3214,
+      "time": "12:41:23"
     },
     {
       "id": "2542",
@@ -971,23 +971,23 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 40,
-      "high": 40.2,
+      "high": 40.25,
       "low": 39.8,
-      "volume": 1583,
-      "time": "11:42:44"
+      "volume": 2047,
+      "time": "12:39:21"
     },
     {
       "id": "1504",
       "name": "東元",
       "category": "電機",
-      "price": 84.9,
-      "change": "-2.50",
-      "changePercent": "-2.86",
+      "price": 87.4,
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 87.5,
       "high": 87.5,
       "low": 84.5,
-      "volume": 10070,
-      "time": "11:42:53"
+      "volume": 12320,
+      "time": "12:41:34"
     },
     {
       "id": "1503",
@@ -997,10 +997,10 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 172,
-      "high": 172,
+      "high": 173,
       "low": 170.5,
-      "volume": 225,
-      "time": "11:41:54"
+      "volume": 343,
+      "time": "12:41:28"
     },
     {
       "id": "6446",
@@ -1012,8 +1012,8 @@
       "open": 488,
       "high": 488,
       "low": 474,
-      "volume": 1680,
-      "time": "11:42:46"
+      "volume": 1975,
+      "time": "12:41:33"
     },
     {
       "id": "1795",
@@ -1025,34 +1025,34 @@
       "open": 285,
       "high": 285,
       "low": 279,
-      "volume": 1141,
-      "time": "11:42:15"
+      "volume": 1249,
+      "time": "12:41:32"
     },
     {
       "id": "0050",
       "name": "元大台灣50",
       "category": "ETF",
-      "price": 65.2,
-      "change": "-0.05",
-      "changePercent": "-0.08",
+      "price": 65.25,
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 64.9,
-      "high": 65.25,
+      "high": 65.3,
       "low": 64.75,
-      "volume": 40997,
-      "time": "11:42:54"
+      "volume": 47060,
+      "time": "12:41:33"
     },
     {
       "id": "0056",
       "name": "元大高股息",
       "category": "ETF",
-      "price": 36.61,
-      "change": "-0.12",
-      "changePercent": "-0.33",
+      "price": 36.73,
+      "change": "NaN",
+      "changePercent": "NaN",
       "open": 36.72,
       "high": 36.72,
       "low": 36.59,
-      "volume": 25435,
-      "time": "11:42:53"
+      "volume": 28701,
+      "time": "12:41:29"
     },
     {
       "id": "00878",
@@ -1064,8 +1064,8 @@
       "open": 21.7,
       "high": 21.71,
       "low": 21.64,
-      "volume": 16832,
-      "time": "11:42:53"
+      "volume": 21937,
+      "time": "12:41:34"
     },
     {
       "id": "00919",
@@ -1077,8 +1077,8 @@
       "open": 22.45,
       "high": 22.48,
       "low": 22.4,
-      "volume": 29561,
-      "time": "11:42:54"
+      "volume": 38446,
+      "time": "12:41:34"
     },
     {
       "id": "00929",
@@ -1088,23 +1088,23 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 17.92,
-      "high": 17.93,
+      "high": 17.95,
       "low": 17.87,
-      "volume": 7815,
-      "time": "11:42:53"
+      "volume": 11156,
+      "time": "12:41:34"
     },
     {
       "id": "00940",
       "name": "元大台灣價值高息",
       "category": "ETF",
-      "price": 9.27,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 9.25,
+      "change": "-0.02",
+      "changePercent": "-0.22",
       "open": 9.26,
       "high": 9.27,
       "low": 9.23,
-      "volume": 8301,
-      "time": "11:42:51"
+      "volume": 11312,
+      "time": "12:41:21"
     },
     {
       "id": "006208",
@@ -1114,23 +1114,23 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 148.55,
-      "high": 149,
+      "high": 149.4,
       "low": 147.9,
-      "volume": 4046,
-      "time": "11:42:44"
+      "volume": 5474,
+      "time": "12:41:27"
     },
     {
       "id": "00713",
       "name": "元大台灣高息低波",
       "category": "ETF",
-      "price": 50.9,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 50.85,
+      "change": "-0.05",
+      "changePercent": "-0.10",
       "open": 50.8,
-      "high": 50.85,
+      "high": 50.95,
       "low": 50.7,
-      "volume": 2996,
-      "time": "11:42:42"
+      "volume": 4150,
+      "time": "12:41:30"
     },
     {
       "id": "00881",
@@ -1140,10 +1140,10 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 32.4,
-      "high": 32.53,
+      "high": 32.56,
       "low": 32.33,
-      "volume": 5793,
-      "time": "11:42:54"
+      "volume": 6474,
+      "time": "12:41:34"
     },
     {
       "id": "00900",
@@ -1153,10 +1153,10 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 13.74,
-      "high": 13.74,
+      "high": 13.75,
       "low": 13.7,
-      "volume": 5171,
-      "time": "11:42:52"
+      "volume": 6132,
+      "time": "12:41:29"
     },
     {
       "id": "",
@@ -1186,14 +1186,14 @@
       "id": "00757",
       "name": "統一FANG+",
       "category": "ETF",
-      "price": 119.3,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 118.4,
+      "change": "-0.90",
+      "changePercent": "-0.75",
       "open": 118.4,
       "high": 118.45,
       "low": 118.2,
-      "volume": 1209,
-      "time": "11:42:52"
+      "volume": 1443,
+      "time": "12:41:34"
     },
     {
       "id": "00830",
@@ -1205,8 +1205,8 @@
       "open": 58.3,
       "high": 58.3,
       "low": 57.95,
-      "volume": 7625,
-      "time": "11:42:51"
+      "volume": 11275,
+      "time": "12:41:22"
     },
     {
       "id": "3260",
@@ -1216,23 +1216,23 @@
       "change": "NaN",
       "changePercent": "NaN",
       "open": 240,
-      "high": 257,
+      "high": 257.5,
       "low": 239,
-      "volume": 28708,
-      "time": "11:42:53"
+      "volume": 31807,
+      "time": "12:41:35"
     },
     {
       "id": "5274",
       "name": "信驊",
       "category": "IC設計",
-      "price": 7100,
-      "change": "NaN",
-      "changePercent": "NaN",
+      "price": 7545,
+      "change": "445.00",
+      "changePercent": "6.27",
       "open": 7335,
       "high": 7715,
       "low": 7250,
-      "volume": 399,
-      "time": "11:42:56"
+      "volume": 437,
+      "time": "12:41:21"
     },
     {
       "id": "",
@@ -1268,8 +1268,8 @@
       "open": 57,
       "high": 57,
       "low": 55,
-      "volume": 2092,
-      "time": "11:42:37"
+      "volume": 2297,
+      "time": "12:41:28"
     },
     {
       "id": "",
