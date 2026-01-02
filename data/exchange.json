@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-02T16:30:28.709Z",
-  "updateTimeLocal": "2026/1/3 上午12:30:28",
+  "updateTime": "2026-01-02T17:21:17.531Z",
+  "updateTimeLocal": "2026/1/3 上午1:21:17",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -26,8 +26,8 @@
       "name": "英鎊",
       "flag": "🇬🇧",
       "cashBuy": 0,
-      "cashSell": 41.21,
-      "spotBuy": 42.105,
+      "cashSell": 41.15,
+      "spotBuy": 42.045,
       "spotSell": 42.072
     },
     "AUD": {
@@ -35,8 +35,8 @@
       "name": "澳幣",
       "flag": "🇦🇺",
       "cashBuy": 0,
-      "cashSell": 20.63,
-      "spotBuy": 20.845,
+      "cashSell": 20.62,
+      "spotBuy": 20.835,
       "spotSell": 20.923
     },
     "CAD": {
@@ -44,8 +44,8 @@
       "name": "加幣",
       "flag": "🇨🇦",
       "cashBuy": 0,
-      "cashSell": 22.4,
-      "spotBuy": 22.73,
+      "cashSell": 22.39,
+      "spotBuy": 22.72,
       "spotSell": 22.822
     },
     "SGD": {
@@ -62,8 +62,8 @@
       "name": "瑞士法郎",
       "flag": "🇨🇭",
       "cashBuy": 0,
-      "cashSell": 38.91,
-      "spotBuy": 39.52,
+      "cashSell": 38.88,
+      "spotBuy": 39.49,
       "spotSell": 39.478
     },
     "JPY": {
@@ -71,8 +71,8 @@
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.1914,
-      "spotBuy": 0.1982,
+      "cashSell": 0.1913,
+      "spotBuy": 0.1981,
       "spotSell": 0.1983
     },
     "ZAR": {
@@ -90,7 +90,7 @@
       "flag": "🇸🇪",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 3.36,
+      "spotBuy": 3.35,
       "spotSell": 3.359
     },
     "NZD": {
@@ -98,8 +98,8 @@
       "name": "紐西蘭幣",
       "flag": "🇳🇿",
       "cashBuy": 0,
-      "cashSell": 17.65,
-      "spotBuy": 17.98,
+      "cashSell": 17.63,
+      "spotBuy": 17.96,
       "spotSell": 18.011
     },
     "THB": {
@@ -134,8 +134,8 @@
       "name": "歐元",
       "flag": "🇪🇺",
       "cashBuy": 0,
-      "cashSell": 36.09,
-      "spotBuy": 36.605,
+      "cashSell": 36.07,
+      "spotBuy": 36.585,
       "spotSell": 36.657
     },
     "KRW": {
