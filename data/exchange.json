@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-02T10:26:06.514Z",
-  "updateTimeLocal": "2026/1/2 下午6:26:06",
+  "updateTime": "2026-01-02T11:21:23.717Z",
+  "updateTimeLocal": "2026/1/2 下午7:21:23",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -26,8 +26,8 @@
       "name": "英鎊",
       "flag": "🇬🇧",
       "cashBuy": 0,
-      "cashSell": 41.09,
-      "spotBuy": 41.985,
+      "cashSell": 41.06,
+      "spotBuy": 41.955,
       "spotSell": 42.072
     },
     "AUD": {
@@ -107,8 +107,8 @@
       "name": "泰銖",
       "flag": "🇹🇭",
       "cashBuy": 0,
-      "cashSell": 0.872,
-      "spotBuy": 0.9824,
+      "cashSell": 0.873,
+      "spotBuy": 0.9834,
       "spotSell": 0
     },
     "PHP": {
