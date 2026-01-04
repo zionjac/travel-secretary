@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-04T17:21:00.094Z",
-  "updateTimeLocal": "2026/1/5 上午1:21:00",
+  "updateTime": "2026-01-04T18:34:00.271Z",
+  "updateTimeLocal": "2026/1/5 上午2:34:00",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -62,8 +62,8 @@
       "name": "瑞士法郎",
       "flag": "🇨🇭",
       "cashBuy": 0,
-      "cashSell": 38.85,
-      "spotBuy": 39.46,
+      "cashSell": 38.88,
+      "spotBuy": 39.49,
       "spotSell": 39.478
     },
     "JPY": {
