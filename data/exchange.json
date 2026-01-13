@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-13T17:29:48.833Z",
-  "updateTimeLocal": "2026/1/14 上午1:29:48",
+  "updateTime": "2026-01-13T18:36:21.600Z",
+  "updateTimeLocal": "2026/1/14 上午2:36:21",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -53,8 +53,8 @@
       "name": "新加坡幣",
       "flag": "🇸🇬",
       "cashBuy": 0,
-      "cashSell": 23.97,
-      "spotBuy": 24.44,
+      "cashSell": 23.98,
+      "spotBuy": 24.45,
       "spotSell": 24.507
     },
     "CHF": {
@@ -71,8 +71,8 @@
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.1898,
-      "spotBuy": 0.1966,
+      "cashSell": 0.1899,
+      "spotBuy": 0.1967,
       "spotSell": 0.1972
     },
     "ZAR": {
