@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-14T20:25:54.129Z",
-  "updateTimeLocal": "2026/1/15 上午4:25:54",
+  "updateTime": "2026-01-14T21:26:02.784Z",
+  "updateTimeLocal": "2026/1/15 上午5:26:02",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -35,8 +35,8 @@
       "name": "澳幣",
       "flag": "🇦🇺",
       "cashBuy": 0,
-      "cashSell": 20.74,
-      "spotBuy": 20.955,
+      "cashSell": 20.76,
+      "spotBuy": 20.975,
       "spotSell": 21.053
     },
     "CAD": {
@@ -143,7 +143,7 @@
       "name": "韓元",
       "flag": "🇰🇷",
       "cashBuy": 0,
-      "cashSell": 0.01988,
+      "cashSell": 0.0199,
       "spotBuy": 0,
       "spotSell": 0
     },
