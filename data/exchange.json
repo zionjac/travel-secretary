@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-20T20:14:16.969Z",
-  "updateTimeLocal": "2026/1/21 上午4:14:16",
+  "updateTime": "2026-01-20T21:25:18.261Z",
+  "updateTimeLocal": "2026/1/21 上午5:25:18",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -116,7 +116,7 @@
       "name": "菲律賓乺",
       "flag": "🇵🇭",
       "cashBuy": 0,
-      "cashSell": 0.4664,
+      "cashSell": 0.4659,
       "spotBuy": 0,
       "spotSell": 0
     },
