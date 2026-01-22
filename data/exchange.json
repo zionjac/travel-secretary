@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-22T19:28:02.681Z",
-  "updateTimeLocal": "2026/1/23 上午3:28:02",
+  "updateTime": "2026-01-22T20:32:24.811Z",
+  "updateTimeLocal": "2026/1/23 上午4:32:24",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -81,7 +81,7 @@
       "flag": "🇿🇦",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 1.914,
+      "spotBuy": 1.907,
       "spotSell": 1.898
     },
     "SEK": {
@@ -116,7 +116,7 @@
       "name": "菲律賓乺",
       "flag": "🇵🇭",
       "cashBuy": 0,
-      "cashSell": 0.4692,
+      "cashSell": 0.4697,
       "spotBuy": 0,
       "spotSell": 0
     },
