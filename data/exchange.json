@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-26T17:33:25.232Z",
-  "updateTimeLocal": "2026/1/27 上午1:33:25",
+  "updateTime": "2026-01-26T18:41:31.627Z",
+  "updateTimeLocal": "2026/1/27 上午2:41:31",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -26,8 +26,8 @@
       "name": "英鎊",
       "flag": "🇬🇧",
       "cashBuy": 0,
-      "cashSell": 41.97,
-      "spotBuy": 42.865,
+      "cashSell": 41.96,
+      "spotBuy": 42.855,
       "spotSell": 42.772
     },
     "AUD": {
@@ -71,8 +71,8 @@
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.1955,
-      "spotBuy": 0.2023,
+      "cashSell": 0.1953,
+      "spotBuy": 0.2021,
       "spotSell": 0.2022
     },
     "ZAR": {
@@ -90,7 +90,7 @@
       "flag": "🇸🇪",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 3.47,
+      "spotBuy": 3.48,
       "spotSell": 3.479
     },
     "NZD": {
