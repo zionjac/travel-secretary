@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-27T10:32:43.319Z",
-  "updateTimeLocal": "2026/1/27 下午6:32:43",
+  "updateTime": "2026-01-27T11:26:39.339Z",
+  "updateTimeLocal": "2026/1/27 下午7:26:39",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -35,8 +35,8 @@
       "name": "澳幣",
       "flag": "🇦🇺",
       "cashBuy": 0,
-      "cashSell": 21.38,
-      "spotBuy": 21.595,
+      "cashSell": 21.4,
+      "spotBuy": 21.615,
       "spotSell": 21.613
     },
     "CAD": {
@@ -44,8 +44,8 @@
       "name": "加幣",
       "flag": "🇨🇦",
       "cashBuy": 0,
-      "cashSell": 22.43,
-      "spotBuy": 22.76,
+      "cashSell": 22.44,
+      "spotBuy": 22.77,
       "spotSell": 22.792
     },
     "SGD": {
@@ -53,8 +53,8 @@
       "name": "新加坡幣",
       "flag": "🇸🇬",
       "cashBuy": 0,
-      "cashSell": 24.22,
-      "spotBuy": 24.69,
+      "cashSell": 24.24,
+      "spotBuy": 24.71,
       "spotSell": 24.687
     },
     "CHF": {
@@ -62,8 +62,8 @@
       "name": "瑞士法郎",
       "flag": "🇨🇭",
       "cashBuy": 0,
-      "cashSell": 39.68,
-      "spotBuy": 40.29,
+      "cashSell": 39.74,
+      "spotBuy": 40.35,
       "spotSell": 40.268
     },
     "JPY": {
@@ -71,8 +71,8 @@
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.195,
-      "spotBuy": 0.2018,
+      "cashSell": 0.1953,
+      "spotBuy": 0.2021,
       "spotSell": 0.2012
     },
     "ZAR": {
@@ -98,8 +98,8 @@
       "name": "紐西蘭幣",
       "flag": "🇳🇿",
       "cashBuy": 0,
-      "cashSell": 18.29,
-      "spotBuy": 18.62,
+      "cashSell": 18.31,
+      "spotBuy": 18.64,
       "spotSell": 18.641
     },
     "THB": {
@@ -107,8 +107,8 @@
       "name": "泰銖",
       "flag": "🇹🇭",
       "cashBuy": 0,
-      "cashSell": 0.8836,
-      "spotBuy": 0.994,
+      "cashSell": 0.8848,
+      "spotBuy": 0.9952,
       "spotSell": 0
     },
     "PHP": {
@@ -134,8 +134,8 @@
       "name": "歐元",
       "flag": "🇪🇺",
       "cashBuy": 0,
-      "cashSell": 36.53,
-      "spotBuy": 37.045,
+      "cashSell": 36.56,
+      "spotBuy": 37.075,
       "spotSell": 37.079
     },
     "KRW": {
@@ -143,7 +143,7 @@
       "name": "韓元",
       "flag": "🇰🇷",
       "cashBuy": 0,
-      "cashSell": 0.02002,
+      "cashSell": 0.02004,
       "spotBuy": 0,
       "spotSell": 0
     },
