@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-27T22:26:34.763Z",
-  "updateTimeLocal": "2026/1/28 上午6:26:34",
+  "updateTime": "2026-01-27T23:26:53.518Z",
+  "updateTimeLocal": "2026/1/28 上午7:26:53",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -26,8 +26,8 @@
       "name": "英鎊",
       "flag": "🇬🇧",
       "cashBuy": 0,
-      "cashSell": 42.32,
-      "spotBuy": 43.215,
+      "cashSell": 42.29,
+      "spotBuy": 43.185,
       "spotSell": 42.752
     },
     "AUD": {
@@ -35,8 +35,8 @@
       "name": "澳幣",
       "flag": "🇦🇺",
       "cashBuy": 0,
-      "cashSell": 21.65,
-      "spotBuy": 21.865,
+      "cashSell": 21.62,
+      "spotBuy": 21.835,
       "spotSell": 21.613
     },
     "CAD": {
@@ -44,8 +44,8 @@
       "name": "加幣",
       "flag": "🇨🇦",
       "cashBuy": 0,
-      "cashSell": 22.66,
-      "spotBuy": 22.99,
+      "cashSell": 22.65,
+      "spotBuy": 22.98,
       "spotSell": 22.792
     },
     "SGD": {
@@ -71,8 +71,8 @@
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.1973,
-      "spotBuy": 0.2041,
+      "cashSell": 0.1971,
+      "spotBuy": 0.2039,
       "spotSell": 0.2012
     },
     "ZAR": {
@@ -98,8 +98,8 @@
       "name": "紐西蘭幣",
       "flag": "🇳🇿",
       "cashBuy": 0,
-      "cashSell": 18.52,
-      "spotBuy": 18.85,
+      "cashSell": 18.49,
+      "spotBuy": 18.82,
       "spotSell": 18.641
     },
     "THB": {
@@ -107,8 +107,8 @@
       "name": "泰銖",
       "flag": "🇹🇭",
       "cashBuy": 0,
-      "cashSell": 0.8877,
-      "spotBuy": 0.9981,
+      "cashSell": 0.8869,
+      "spotBuy": 0.9973,
       "spotSell": 0
     },
     "PHP": {
@@ -134,8 +134,8 @@
       "name": "歐元",
       "flag": "🇪🇺",
       "cashBuy": 0,
-      "cashSell": 37.03,
-      "spotBuy": 37.545,
+      "cashSell": 37.01,
+      "spotBuy": 37.525,
       "spotSell": 37.079
     },
     "KRW": {
@@ -143,7 +143,7 @@
       "name": "韓元",
       "flag": "🇰🇷",
       "cashBuy": 0,
-      "cashSell": 0.02021,
+      "cashSell": 0.02018,
       "spotBuy": 0,
       "spotSell": 0
     },
