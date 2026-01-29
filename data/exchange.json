@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-29T04:41:21.460Z",
-  "updateTimeLocal": "2026/1/29 下午12:41:21",
+  "updateTime": "2026-01-29T05:48:51.171Z",
+  "updateTimeLocal": "2026/1/29 下午1:48:51",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -26,18 +26,18 @@
       "name": "英鎊",
       "flag": "🇬🇧",
       "cashBuy": 0,
-      "cashSell": 42.11,
-      "spotBuy": 43.12,
-      "spotSell": 43.082
+      "cashSell": 42.13,
+      "spotBuy": 43.14,
+      "spotSell": 43.102
     },
     "AUD": {
       "code": "AUD",
       "name": "澳幣",
       "flag": "🇦🇺",
       "cashBuy": 0,
-      "cashSell": 21.79,
-      "spotBuy": 22.08,
-      "spotSell": 22.063
+      "cashSell": 21.8,
+      "spotBuy": 22.09,
+      "spotSell": 22.073
     },
     "CAD": {
       "code": "CAD",
@@ -62,9 +62,9 @@
       "name": "瑞士法郎",
       "flag": "🇨🇭",
       "cashBuy": 0,
-      "cashSell": 40.09,
-      "spotBuy": 40.77,
-      "spotSell": 40.778
+      "cashSell": 40.07,
+      "spotBuy": 40.75,
+      "spotSell": 40.758
     },
     "JPY": {
       "code": "JPY",
@@ -81,8 +81,8 @@
       "flag": "🇿🇦",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 1.957,
-      "spotSell": 1.954
+      "spotBuy": 1.96,
+      "spotSell": 1.957
     },
     "SEK": {
       "code": "SEK",
@@ -98,17 +98,17 @@
       "name": "紐西蘭幣",
       "flag": "🇳🇿",
       "cashBuy": 0,
-      "cashSell": 18.58,
-      "spotBuy": 18.96,
-      "spotSell": 18.951
+      "cashSell": 18.59,
+      "spotBuy": 18.97,
+      "spotSell": 18.961
     },
     "THB": {
       "code": "THB",
       "name": "泰銖",
       "flag": "🇹🇭",
       "cashBuy": 0,
-      "cashSell": 0.8788,
-      "spotBuy": 0.9922,
+      "cashSell": 0.8785,
+      "spotBuy": 0.9919,
       "spotSell": 0
     },
     "PHP": {
@@ -116,7 +116,7 @@
       "name": "菲律賓乺",
       "flag": "🇵🇭",
       "cashBuy": 0,
-      "cashSell": 0.4659,
+      "cashSell": 0.466,
       "spotBuy": 0,
       "spotSell": 0
     },
@@ -143,7 +143,7 @@
       "name": "韓元",
       "flag": "🇰🇷",
       "cashBuy": 0,
-      "cashSell": 0.02022,
+      "cashSell": 0.02024,
       "spotBuy": 0,
       "spotSell": 0
     },
