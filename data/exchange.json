@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-01-29T18:54:11.323Z",
-  "updateTimeLocal": "2026/1/30 上午2:54:11",
+  "updateTime": "2026-01-29T19:32:57.088Z",
+  "updateTimeLocal": "2026/1/30 上午3:32:57",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -44,8 +44,8 @@
       "name": "加幣",
       "flag": "🇨🇦",
       "cashBuy": 0,
-      "cashSell": 22.69,
-      "spotBuy": 23.02,
+      "cashSell": 22.7,
+      "spotBuy": 23.03,
       "spotSell": 23.042
     },
     "SGD": {
@@ -81,7 +81,7 @@
       "flag": "🇿🇦",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 1.94,
+      "spotBuy": 1.942,
       "spotSell": 1.95
     },
     "SEK": {
@@ -107,8 +107,8 @@
       "name": "泰銖",
       "flag": "🇹🇭",
       "cashBuy": 0,
-      "cashSell": 0.8711,
-      "spotBuy": 0.9815,
+      "cashSell": 0.8704,
+      "spotBuy": 0.9808,
       "spotSell": 0
     },
     "PHP": {
@@ -134,8 +134,8 @@
       "name": "歐元",
       "flag": "🇪🇺",
       "cashBuy": 0,
-      "cashSell": 36.64,
-      "spotBuy": 37.155,
+      "cashSell": 36.61,
+      "spotBuy": 37.125,
       "spotSell": 37.29
     },
     "KRW": {
@@ -143,7 +143,7 @@
       "name": "韓元",
       "flag": "🇰🇷",
       "cashBuy": 0,
-      "cashSell": 0.02011,
+      "cashSell": 0.0201,
       "spotBuy": 0,
       "spotSell": 0
     },
