@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-02-02T10:52:46.469Z",
-  "updateTimeLocal": "2026/2/2 下午6:52:46",
+  "updateTime": "2026-02-02T11:38:04.245Z",
+  "updateTimeLocal": "2026/2/2 下午7:38:04",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -71,8 +71,8 @@
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.1948,
-      "spotBuy": 0.2016,
+      "cashSell": 0.195,
+      "spotBuy": 0.2018,
       "spotSell": 0.2021
     },
     "ZAR": {
@@ -107,8 +107,8 @@
       "name": "泰銖",
       "flag": "🇹🇭",
       "cashBuy": 0,
-      "cashSell": 0.8709,
-      "spotBuy": 0.9813,
+      "cashSell": 0.872,
+      "spotBuy": 0.9824,
       "spotSell": 0
     },
     "PHP": {
@@ -116,7 +116,7 @@
       "name": "菲律賓乺",
       "flag": "🇵🇭",
       "cashBuy": 0,
-      "cashSell": 0.4713,
+      "cashSell": 0.471,
       "spotBuy": 0,
       "spotSell": 0
     },
@@ -143,7 +143,7 @@
       "name": "韓元",
       "flag": "🇰🇷",
       "cashBuy": 0,
-      "cashSell": 0.02002,
+      "cashSell": 0.02004,
       "spotBuy": 0,
       "spotSell": 0
     },
