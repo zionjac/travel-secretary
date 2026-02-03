@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-02-03T22:34:13.962Z",
-  "updateTimeLocal": "2026/2/4 上午6:34:13",
+  "updateTime": "2026-02-03T23:31:55.170Z",
+  "updateTimeLocal": "2026/2/4 上午7:31:55",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -26,8 +26,8 @@
       "name": "英鎊",
       "flag": "🇬🇧",
       "cashBuy": 0,
-      "cashSell": 42.04,
-      "spotBuy": 42.935,
+      "cashSell": 42.02,
+      "spotBuy": 42.915,
       "spotSell": 43.006
     },
     "AUD": {
@@ -62,8 +62,8 @@
       "name": "瑞士法郎",
       "flag": "🇨🇭",
       "cashBuy": 0,
-      "cashSell": 39.9,
-      "spotBuy": 40.51,
+      "cashSell": 39.87,
+      "spotBuy": 40.48,
       "spotSell": 40.477
     },
     "JPY": {
@@ -81,7 +81,7 @@
       "flag": "🇿🇦",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 1.93,
+      "spotBuy": 1.927,
       "spotSell": 1.936
     },
     "SEK": {
@@ -98,8 +98,8 @@
       "name": "紐西蘭幣",
       "flag": "🇳🇿",
       "cashBuy": 0,
-      "cashSell": 18.6,
-      "spotBuy": 18.93,
+      "cashSell": 18.58,
+      "spotBuy": 18.91,
       "spotSell": 18.991
     },
     "THB": {
@@ -107,8 +107,8 @@
       "name": "泰銖",
       "flag": "🇹🇭",
       "cashBuy": 0,
-      "cashSell": 0.8681,
-      "spotBuy": 0.9785,
+      "cashSell": 0.8671,
+      "spotBuy": 0.9775,
       "spotSell": 0
     },
     "PHP": {
@@ -116,7 +116,7 @@
       "name": "菲律賓乺",
       "flag": "🇵🇭",
       "cashBuy": 0,
-      "cashSell": 0.4693,
+      "cashSell": 0.4687,
       "spotBuy": 0,
       "spotSell": 0
     },
