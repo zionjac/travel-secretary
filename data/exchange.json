@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-02-03T09:49:19.804Z",
-  "updateTimeLocal": "2026/2/3 下午5:49:19",
+  "updateTime": "2026-02-03T10:45:35.847Z",
+  "updateTimeLocal": "2026/2/3 下午6:45:35",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -26,8 +26,8 @@
       "name": "英鎊",
       "flag": "🇬🇧",
       "cashBuy": 0,
-      "cashSell": 41.97,
-      "spotBuy": 42.865,
+      "cashSell": 41.94,
+      "spotBuy": 42.835,
       "spotSell": 43.006
     },
     "AUD": {
@@ -35,8 +35,8 @@
       "name": "澳幣",
       "flag": "🇦🇺",
       "cashBuy": 0,
-      "cashSell": 21.73,
-      "spotBuy": 21.945,
+      "cashSell": 21.71,
+      "spotBuy": 21.925,
       "spotSell": 22.093
     },
     "CAD": {
@@ -44,8 +44,8 @@
       "name": "加幣",
       "flag": "🇨🇦",
       "cashBuy": 0,
-      "cashSell": 22.58,
-      "spotBuy": 22.91,
+      "cashSell": 22.57,
+      "spotBuy": 22.9,
       "spotSell": 23.001
     },
     "SGD": {
@@ -71,8 +71,8 @@
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.1934,
-      "spotBuy": 0.2002,
+      "cashSell": 0.1933,
+      "spotBuy": 0.2001,
       "spotSell": 0.2011
     },
     "ZAR": {
@@ -98,8 +98,8 @@
       "name": "紐西蘭幣",
       "flag": "🇳🇿",
       "cashBuy": 0,
-      "cashSell": 18.57,
-      "spotBuy": 18.9,
+      "cashSell": 18.55,
+      "spotBuy": 18.88,
       "spotSell": 18.991
     },
     "THB": {
@@ -107,8 +107,8 @@
       "name": "泰銖",
       "flag": "🇹🇭",
       "cashBuy": 0,
-      "cashSell": 0.8727,
-      "spotBuy": 0.9831,
+      "cashSell": 0.8717,
+      "spotBuy": 0.9821,
       "spotSell": 0
     },
     "PHP": {
@@ -134,8 +134,8 @@
       "name": "歐元",
       "flag": "🇪🇺",
       "cashBuy": 0,
-      "cashSell": 36.43,
-      "spotBuy": 36.945,
+      "cashSell": 36.4,
+      "spotBuy": 36.915,
       "spotSell": 37.09
     },
     "KRW": {
@@ -143,7 +143,7 @@
       "name": "韓元",
       "flag": "🇰🇷",
       "cashBuy": 0,
-      "cashSell": 0.02003,
+      "cashSell": 0.02002,
       "spotBuy": 0,
       "spotSell": 0
     },
