@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-02-04T21:37:06.706Z",
-  "updateTimeLocal": "2026/2/5 上午5:37:06",
+  "updateTime": "2026-02-04T22:33:24.013Z",
+  "updateTimeLocal": "2026/2/5 上午6:33:24",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -62,8 +62,8 @@
       "name": "瑞士法郎",
       "flag": "🇨🇭",
       "cashBuy": 0,
-      "cashSell": 39.81,
-      "spotBuy": 40.42,
+      "cashSell": 39.8,
+      "spotBuy": 40.41,
       "spotSell": 40.547
     },
     "JPY": {
@@ -71,8 +71,8 @@
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.1919,
-      "spotBuy": 0.1987,
+      "cashSell": 0.192,
+      "spotBuy": 0.1988,
       "spotSell": 0.1999
     },
     "ZAR": {
@@ -81,7 +81,7 @@
       "flag": "🇿🇦",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 1.919,
+      "spotBuy": 1.917,
       "spotSell": 1.937
     },
     "SEK": {
@@ -90,7 +90,7 @@
       "flag": "🇸🇪",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 3.46,
+      "spotBuy": 3.45,
       "spotSell": 3.499
     },
     "NZD": {
