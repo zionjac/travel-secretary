@@ -1,6 +1,6 @@
 {
-  "updateTime": "2026-02-06T21:34:59.205Z",
-  "updateTimeLocal": "2026/2/7 上午5:34:59",
+  "updateTime": "2026-02-06T22:29:26.098Z",
+  "updateTimeLocal": "2026/2/7 上午6:29:26",
   "baseCurrency": "TWD",
   "rates": {
     "USD": {
@@ -26,8 +26,8 @@
       "name": "英鎊",
       "flag": "🇬🇧",
       "cashBuy": 0,
-      "cashSell": 41.96,
-      "spotBuy": 42.855,
+      "cashSell": 41.93,
+      "spotBuy": 42.825,
       "spotSell": 42.756
     },
     "AUD": {
@@ -35,8 +35,8 @@
       "name": "澳幣",
       "flag": "🇦🇺",
       "cashBuy": 0,
-      "cashSell": 21.86,
-      "spotBuy": 22.075,
+      "cashSell": 21.84,
+      "spotBuy": 22.055,
       "spotSell": 21.923
     },
     "CAD": {
@@ -44,8 +44,8 @@
       "name": "加幣",
       "flag": "🇨🇦",
       "cashBuy": 0,
-      "cashSell": 22.73,
-      "spotBuy": 23.06,
+      "cashSell": 22.67,
+      "spotBuy": 23,
       "spotSell": 23.041
     },
     "SGD": {
@@ -53,8 +53,8 @@
       "name": "新加坡幣",
       "flag": "🇸🇬",
       "cashBuy": 0,
-      "cashSell": 24.35,
-      "spotBuy": 24.82,
+      "cashSell": 24.33,
+      "spotBuy": 24.8,
       "spotSell": 24.776
     },
     "CHF": {
@@ -71,8 +71,8 @@
       "name": "日圓",
       "flag": "🇯🇵",
       "cashBuy": 0,
-      "cashSell": 0.1924,
-      "spotBuy": 0.1992,
+      "cashSell": 0.1923,
+      "spotBuy": 0.1991,
       "spotSell": 0.2
     },
     "ZAR": {
@@ -81,7 +81,7 @@
       "flag": "🇿🇦",
       "cashBuy": 0,
       "cashSell": 0,
-      "spotBuy": 1.933,
+      "spotBuy": 1.93,
       "spotSell": 1.913
     },
     "SEK": {
@@ -98,8 +98,8 @@
       "name": "紐西蘭幣",
       "flag": "🇳🇿",
       "cashBuy": 0,
-      "cashSell": 18.6,
-      "spotBuy": 18.93,
+      "cashSell": 18.59,
+      "spotBuy": 18.92,
       "spotSell": 18.831
     },
     "THB": {
@@ -134,8 +134,8 @@
       "name": "歐元",
       "flag": "🇪🇺",
       "cashBuy": 0,
-      "cashSell": 36.65,
-      "spotBuy": 37.165,
+      "cashSell": 36.62,
+      "spotBuy": 37.135,
       "spotSell": 37.15
     },
     "KRW": {
